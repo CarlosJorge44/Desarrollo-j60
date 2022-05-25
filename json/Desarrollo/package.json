@@ -1,0 +1,31 @@
+{
+  "name": "desarrollo",
+  "version": "1.0.0",
+  "description": "prueva",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CarlosJorge44/DEV.git"
+  },
+  "author": "carlos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CarlosJorge44/DEV/issues"
+  },
+  "homepage": "https://github.com/CarlosJorge44/DEV#readme",
+  "dependencies": {
+    "body-parser": "^1.20.0",
+    "cookie-parser": "^1.4.6",
+    "ejs": "^3.1.8",
+    "express": "^4.18.1",
+    "express-session": "^1.17.3",
+    "mongodb": "^4.6.0",
+    "mongoose": "^6.3.3",
+    "morgan": "^1.10.0",
+    "request": "^2.88.2",
+    "session": "^0.1.0"
+  }
+}
